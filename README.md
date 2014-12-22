@@ -36,15 +36,25 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greenes carde of fancie Wherein the folly of those carpet knights is deciphered, which guiding their
-#####Body#####
-FOLLIE.I Fear greatly that I ſhal be the laſt at yt feaſt of Iupiter, where all the gods (no doubt) 
-1. The ſecond Diſcourſe.
 
-1. The third Diſcourſe.
+1. TO THE RIGHT HONOrable, Edward de Ʋere Earle of Oxenford, Vicount Bulbeck, Lord of Eſcales and Badleſmire, and Lord great Chamberlain of England: Robert Green wiſheth long life with increaſe of Honour.
+
+1. TO THE GENTLEMEN Readers, health.
+
+1. AD LECTOREM in laudem Authoris.
+
+#####Body#####
+
+1. THE CARDE OF FANCIE.
+
+1. The Debate betweene Follie and Loue, tranſlated out of French by ROBERT GREEN, Maiſter of Artes.
+FOLLIE.I Fear greatly that I ſhal be the laſt at yt feaſt of Iupiter, where all the gods (no doubt) 
+    _ The ſecond Diſcourſe.
+
+    _ The third Diſcourſe.
 
 #####Back#####
-Greenes carde of fancie Wherein the folly of those carpet knights is deciphered, which guiding their
+AT LONDON, Printed for Mathew Lownes. 1608
 **Types of content**
 
   * There are 13 **verse** lines!
